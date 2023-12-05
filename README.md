@@ -11,6 +11,6 @@ const APIKey = 'Your Api Key';
 # Screenshot
 Aqui está uma screenshot do projeto :
 
-![screenshot](https://github.com/AsmrProg-YT/100-days-of-javascript/raw/master/Day%20%2310%20-%20Weather%20App/screenshot.jpg)
+![weather_app](https://github.com/tpessoaaraujo/Weather_App/assets/100780465/20fb422e-c55a-4451-a661-5c7043ac0376)
 
 #### Rights attributed to AsmrProg-YT. Thanks for your video!
